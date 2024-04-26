@@ -17,6 +17,7 @@ The repository includes the following:
 7. Tuples
 8. comparisons
 9. conditions
+10. Imp Notes for interview as a python developer 
 ## Getting Started
 To get started with learning Python using this repository, follow these steps:
 1. Clone the repo
